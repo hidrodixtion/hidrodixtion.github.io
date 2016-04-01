@@ -1,18 +1,17 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 # relative_permalinks: true
 
 # Setup
 title:            Day Two
 tagline:          'Developer log'
 description:      'Find me on twitter <a href="https://twitter.com/adinugroho" target="_blank">@adinugroho</a>.'
-url:              http://hidrodixtion.github.io
+url:              http://hyde.getpoole.com
 baseurl:          /
-future:           true
 
 author:
   name:           'Adi Nugroho'
