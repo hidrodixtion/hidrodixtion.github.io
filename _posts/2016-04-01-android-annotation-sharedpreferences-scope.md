@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Android Annotation SharedPreferences Scope
+comments: true
 ---
 
 Fixing android annotation preference not shared across all activity. *Somehow I miss to read about Scope section*
