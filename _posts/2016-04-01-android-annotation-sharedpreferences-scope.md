@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Android Annotation SharedPreferences Scope
 ---
 
 Fixing android annotation preference not shared across all activity. *Somehow I miss to read about Scope section*
