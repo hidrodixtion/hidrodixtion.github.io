@@ -12,7 +12,7 @@ tagline:          'Developer log'
 description:      'Find me on twitter <a href="https://twitter.com/adinugroho" target="_blank">@adinugroho</a>.'
 url:              http://hidrodixtion.github.io
 baseurl:          /
-``
+
 author:
   name:           'Adi Nugroho'
   url:            https://twitter.com/adinugroho
