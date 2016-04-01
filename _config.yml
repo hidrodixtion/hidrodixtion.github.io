@@ -10,7 +10,8 @@ permalink:        pretty
 title:            Day Two
 tagline:          'Developer log'
 description:      'Find me on twitter <a href="https://twitter.com/adinugroho" target="_blank">@adinugroho</a>.'
-url:              http://hidrodixtion.github.io
+# url:              http://hidrodixtion.github.io
+url:              /
 baseurl:          /
 
 author:

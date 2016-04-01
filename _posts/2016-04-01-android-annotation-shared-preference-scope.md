@@ -13,6 +13,7 @@ If you write / put value in sharedpreference at Activity A and try to read / get
 Read it here : [Android Annotation SharedPreferences Scope](https://github.com/excilys/androidannotations/wiki/SharedPreferencesHelpers#scope)
 
 **TL;DR** : To make it work like normal SharedPreferences, you should write :
+
 ```java
 @SharedPref(value=SharedPref.Scope.UNIQUE)
 public interface MyPrefs {
