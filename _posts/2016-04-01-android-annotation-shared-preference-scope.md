@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Annotation Shared Preference Scope
+title: Android Annotation SharedPreferences Scope
 date: "2016-04-01 07:50"
 ---
 
