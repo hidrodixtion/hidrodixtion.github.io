@@ -1,3 +1,19 @@
+# Ignore docs files
+_gh_pages
+_site
+.ruby-version
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
 
 # Created by https://www.gitignore.io/api/osx,
 
@@ -26,6 +42,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-
-#!! ERROR:  is undefined. Use list command to see defined gitignore types !!#

@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Day Two
+tagline:          'Developer log'
+description:      'Find me on twitter <a href="https://twitter.com/adinugroho" target="_blank">@adinugroho</a>.'
+url:              http://hidrodixtion.github.io
+baseurl:          /
+
+author:
+  name:           'Adi Nugroho'
+  url:            https://twitter.com/adinugroho
+
+paginate:         3
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
