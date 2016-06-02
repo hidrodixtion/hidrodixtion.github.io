@@ -12,7 +12,7 @@ date: "2016-06-02 06:02"
 
 <!--break-->
 
-```
+```coffeescript
 express = require 'express'
 multer = require 'multer'
 path = require 'path'
