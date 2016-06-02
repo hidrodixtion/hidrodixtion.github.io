@@ -8,7 +8,7 @@ date: "2016-06-02 06:02"
 2. Install [express](http://expressjs.com/). `npm install express`
 3. Install [multer](https://github.com/expressjs/multer). `npm install multer`
 
-- (Optional) install [coffeescript](http://coffeescript.org/). `npm install -g coffeescript`
+- (Optional) install [coffeescript](http://coffeescript.org/). `npm install -g coffee-script`
 
 <!--break-->
 
