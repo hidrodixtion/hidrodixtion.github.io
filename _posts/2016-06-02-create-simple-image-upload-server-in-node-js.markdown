@@ -10,6 +10,8 @@ date: "2016-06-02 06:02"
 
 - (Optional) install [coffeescript](http://coffeescript.org/). `npm install -g coffeescript`
 
+<!--break-->
+
 ```
 express = require 'express'
 multer = require 'multer'
